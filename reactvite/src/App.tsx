@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <img src="/imagen.jpg" width={400} height={300}></img>
     </>
   )
 }
